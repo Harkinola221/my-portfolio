@@ -22,7 +22,7 @@ const splashScreen = true // recommended: for best behavior after refresh
 const greeting = {
     intro: "Hello 👋, My name is",
     name: "Emmanuel Temitope",
-    message: "As a passionate freelance software engineer, I specialize in crafting customized solutions that streamline business operations. With a keen eye for efficiency and a love for problem-solving, I thrive on helping businesses optimize their workflow through tailor-made software solutions.",
+    message: "As a passionate freelancer software engineer, I specialize in crafting customized solutions that streamline business operations. With a keen eye for efficiency and a love for problem-solving, I thrive on helping businesses optimize their workflow through tailor-made software solutions.",
     basedLocation: "Lagos, Nigeria",
     resumeLink: "https://docs.google.com/document/d/1Sa_sK3RMusoezzgzxu8LkV16i2Jra2qd/edit?usp=sharing&ouid=113657039181859132688&rtpof=true&sd=true", // recommended: google drive file share link (change to "anyone on the internet can view")
     logo: {
